@@ -10,7 +10,6 @@ RUN apk update && \
             python2-dev python3-dev gettext-dev \
             nodejs npm ruby-dev \
             lua5.1-dev  && \
-# luajit-dev
 # setup lua
     wget https://luarocks.org/releases/luarocks-2.4.4.tar.gz && \
     tar zxpf luarocks-2.4.4.tar.gz && \

@@ -6,3 +6,6 @@ If you want to know details of neovim5.0, please see https://github.com/neovim/n
 
 ## related repository
 - please wait
+
+## other site
+https://hub.docker.com/r/upnt/docvim-nightly (docker hub)
